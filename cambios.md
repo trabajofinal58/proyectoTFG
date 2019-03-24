@@ -8,4 +8,5 @@ Guarda y borra usuarios (aunque no haga falta).
 Hay ejemplos válidos de casteo de fecha (Date) a string.
 Sigue sin funcionar la autentificación.
 Hay que revisar el autoincrementado del código de usuario, porque siempre pone 0 y no se incrementa.
+Hay un Navigation hecho (aunque falta por poner los intent para que salgan las pantallas correspondientes) pero no se como sacar ese menu deslizando desde el emulador.
 -------------------------------------------24/03/2018
