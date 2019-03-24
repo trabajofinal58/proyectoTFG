@@ -1,7 +1,7 @@
 Aqui podemos ir poniendo los cambios/avances que vayamos haciendo en la aplicación.
 
 
-Insertados cambios en las activities de alojamiento y usuarios
+Insertados cambios en las activities de alojamiento y usuarios \n
 Ya funcionan los intent
 Guarda, borra y consulta de hoteles
 Guarda y borra usuarios (aunque no haga falta)
