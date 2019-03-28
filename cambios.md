@@ -14,6 +14,7 @@ Hay un Navigation hecho (aunque falta por poner los intent para que salgan las p
 
 Hecha la actividad de insertar actividades (que de poco sirve, porque es para añadirlas, no para consultarlas).  
 Preparadas actividades de viajes, consulta de hoteles e interfaz (una que muestre un ejemplo de como sería la interfaz presentable).  
+Parece que la mejor opción para la interfaz como tal, sería tres grandes ImageButton donde poner los accesos a hoteles, actividades y esas cosas.  
 Pero con todo eso tenemos numerosos ejemplos de cosas que podemos ir implementando.  
 R: Sigue sin funcionar la autentificación.  
 R: Hay que revisar el autoincrementado del código de usuario, porque siempre pone 0 y no se incrementa.  
