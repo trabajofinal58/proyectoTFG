@@ -23,3 +23,12 @@ El ratingBar (lo de las estrellitas para la valoración de algo, sería interesa
 Interesaría poner el tipo de actividades como un combobox, nos sería útil para la búsqueda cuando la tengamos.  
 Queda hacer lo de movimientos también.  
 **28/03/2019**  
+  
+Hecha la actividad de consulta de hoteles (falta poner los if para cuando se dejen campos vacíos, pero funcionar funciona).  
+R: Sigue sin funcionar la autentificación.  
+R: Hay que revisar el autoincrementado del código de usuario, porque siempre pone 0 y no se incrementa.  
+R: Hay un Navigation hecho (aunque falta por poner los intent para que salgan las pantallas correspondientes) pero no se como sacar ese menu deslizando desde el emulador.  
+Interesaría poner el tipo de actividades como un combobox, nos sería útil para la búsqueda cuando la tengamos.  
+Queda hacer lo de movimientos también, pero esto es lo que menos prisa nos corre.   
+Solucionado el tema de las estrellas (tanto para estrellas como para valoración), ya coge el valor que debería.  
+**29/03/2019**
