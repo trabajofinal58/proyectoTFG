@@ -31,4 +31,12 @@ R: Hay un Navigation hecho (aunque falta por poner los intent para que salgan la
 Interesaría poner el tipo de actividades como un combobox, nos sería útil para la búsqueda cuando la tengamos.  
 Queda hacer lo de movimientos también, pero esto es lo que menos prisa nos corre.   
 Solucionado el tema de las estrellas (tanto para estrellas como para valoración), ya coge el valor que debería.  
-**29/03/2019**
+**29/03/2019**  
+  
+Hecho el inicio de sesión  
+Hecha la activity de registro, pero falta programarla  
+R: Hay que revisar el autoincrementado del código de usuario, porque siempre pone 0 y no se incrementa.  
+R: Hay un Navigation hecho (aunque falta por poner los intent para que salgan las pantallas correspondientes) pero no se como sacar ese menu deslizando desde el emulador.  
+R: Queda hacer lo de movimientos también, pero esto es lo que menos prisa nos corre. 
+Preparada actividad de insertar viajes (después pasaría a ser la de consulta), es otro de los objetivos de la próxima tutoría  
+**05/04/2019**  
