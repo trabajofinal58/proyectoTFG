@@ -44,6 +44,6 @@ Preparada actividad de insertar viajes (después pasaría a ser la de consulta),
 Hecha la actividad de registro  
 R: Hay que revisar el autoincrementado del código de usuario, porque siempre pone 0 y no se incrementa. (Estoy por descartarlo)  
 R: Hay un Navigation hecho (aunque falta por poner los intent para que salgan las pantallas correspondientes) pero no se como sacar ese menu deslizando desde el emulador.  
-R: Queda hacer lo de movimientos también, pero esto es lo que menos prisa nos corre. 
+R: Queda hacer lo de movimientos también, pero esto es lo que menos prisa nos corre.  
 R: Preparada actividad de insertar viajes (después pasaría a ser la de consulta), es otro de los objetivos de la próxima tutoría  
 **06/04/2019**  
