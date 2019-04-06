@@ -48,5 +48,5 @@ R: Queda hacer lo de movimientos también, pero esto es lo que menos prisa nos c
 R: Preparada actividad de insertar viajes (después pasaría a ser la de consulta), es otro de los objetivos de la próxima tutoría  
 Arreglada la consulta de hoteles (si metéis más y no son hoteles (y no tienen estrellas, obviamente), no dejeis lo de estrellas sin nada, poned un 0. Si no lo ponéis, luego falla la consulta a la base de datos).  
 Ya está hecho el linear layout de la interfaz, ya se reparten el espacio igual los tres imageButtons.  
-Cambios menores en el diseño.
+Cambios menores en el diseño.  
 **06/04/2019**  
