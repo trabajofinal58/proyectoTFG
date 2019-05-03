@@ -49,4 +49,18 @@ R: Preparada actividad de insertar viajes (después pasaría a ser la de consult
 Arreglada la consulta de hoteles (si metéis más y no son hoteles (y no tienen estrellas, obviamente), no dejeis lo de estrellas sin nada, poned un 0. Si no lo ponéis, luego falla la consulta a la base de datos).  
 Ya está hecho el linear layout de la interfaz, ya se reparten el espacio igual los tres imageButtons.  
 Cambios menores en el diseño.  
-**06/04/2019**  
+**06/04/2019**    
+  
+Muchos cambios  
+Ya está el navigation drawer implementado donde hacía falta. Han salido muchos layouts y eso, pero solo se trabaja con el content_  
+A la hora de entrar a la app, si se registra o inicia sesión, se entra a la versión que va a ir siendo definitiva  
+En el "modo admin" ese que tengo un botón puesto abajo del todo, se accede a lo anterior que sabemos que funciona  
+El código que está puesto no lo quitéis que si no peta. Son muchas cosas para hacer cosas básicas  
+Todo lo que vayais a añadir hacerlo después en esas clases y ya está, lo que metais en el onCreate lo poneis al final del método y ya  
+Lo del código de usuario lo he quitado, pero tengo que hacer unas cosas con upper cases y lower cases para que funcione a la perfeccion  
+Lo de saldo ya está preparado, igual que lo de perfil de usuario, ya veremos que hacemos con eso  
+Lo de la otra vez, poned siempre 0 en caso de que metais hoteles sin estrellas  
+Falta hacer lo de la lista personalizada con imágenes y todo, como lo que hicimos de los Simpsons, habria que ver como hacer lo de las imagenes  
+Falta hacer lo de consultar actividades  
+Y con eso ya estaría bien por ahora  
+**03/05/2019** 
